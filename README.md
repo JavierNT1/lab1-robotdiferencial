@@ -66,7 +66,7 @@ Cuando las ruedas giran en sentidos opuestos (vr = -vl), la velocidad lineal es 
 ![Circulo](images/Circulo6.png)
 ![Circulo](images/Circulo7.png)
 
-[![Ver video](images/FotoVideo1.png)](videos/VideoCirculo.mp4)
+[![Ver video](images/FotoVideo1.png)](https://drive.google.com/file/d/1gjm4nxpb26X295pkqherGjoBq1_xarXd/view?usp=sharing)
 
 El movimiento circular se obtiene al mantener velocidades constantes pero diferentes en cada rueda, generando una combinación constante de velocidad lineal y angular.
 
@@ -78,10 +78,10 @@ El movimiento circular se obtiene al mantener velocidades constantes pero difere
 
 **Sin perturbaciones:**
 Movimiento estable y predecible.
-[![Ver video](images/FotoVideo3.png)](videos/VideoNormal.mp4)
+[![Ver video](images/FotoVideo3.png)](https://drive.google.com/file/d/1axlNZUQIrnoJHBAVsuLWC6amPCnfIV-m/view?usp=sharing)
 
 **Con perturbaciones:**
-[![Ver video](images/FotoVideo2.png)](videos/VideoPerturbaciones.mp4)
+[![Ver video](images/FotoVideo2.png)](https://drive.google.com/file/d/1-LLnWIvUiAjFs9DmurFygcXvA4Mkm_ry/view?usp=sharing)
 
 Las perturbaciones introducen variaciones aleatorias en las velocidades de las ruedas, lo que altera tanto la velocidad lineal como angular del robot. Como resultado, la trayectoria deja de ser ideal y presenta desviaciones, evidenciando la sensibilidad del sistema a pequeños cambios en las velocidades.
 
